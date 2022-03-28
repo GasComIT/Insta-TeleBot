@@ -1,12 +1,13 @@
-# Instagram Manager Bot
+### Insta-TelegBot
+Instagram Manager & Downloder Bot
 The most advanced Instagram Downloader Bot.
 
 ```
 Please fork this repository don't import code
 Made with Python3
-(C) @subinps
+(C) @gascomit
 Copyright permission under MIT License
-License -> https://github.com/subinps/Instagram-Bot/blob/main/LICENSE
+License -> https://github.com/gascomit/Insta-TelegBot/blob/main/LICENSE
 ```
 
 
@@ -82,8 +83,8 @@ For Generating Session after deployment, You Must leave the Variable as blank an
 ### Deploy to VPS
 
 ```sh
-git clone https://github.com/subinps/Instagram-Bot
-cd Instagram-Bot
+git clone https://github.com/gascomit/insta-telegbot
+cd Insta-TelegBot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
 python3 main.py
@@ -102,14 +103,15 @@ python3 main.py
 ### Note
 
 ```
-Contributions are welcomed, But Kanging and editing a few lines wont make you a Developer.
+Contributions are welcome.
+Kanging and editing a few lines wont make you a Developer.
 Fork the repo, Do not Import code.
 
 ```
 
 #### Support
 
-Connect Me On [Telegram](https://telegram.dog/subinps_bot)
+Connect Me On [Telegram](https://telegram.dog/gascom_it)
 
 
 ```
